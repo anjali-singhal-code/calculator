@@ -7,7 +7,7 @@ https://anjali-singhal-code.github.io/calculator/
 
 ## 📸 Screenshot
 <p align= "centre">
- <img src="screenshot.png" width= "300px">
+ <img src="screenshot.png" width= "300">
 </p>
 
 ## 🚀 Features
