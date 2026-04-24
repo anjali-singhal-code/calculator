@@ -6,7 +6,9 @@ A simple calculator built using HTML, CSS, and JavaScript.
 https://anjali-singhal-code.github.io/calculator/
 
 ## 📸 Screenshot
-<img src="screenshot.png" width= "300px">
+<p align= "centre">
+ <img src="screenshot.png" width= "300px">
+</p>
 
 ## 🚀 Features
 - ➕ Addition
