@@ -2,8 +2,17 @@
 
 A simple calculator built using HTML, CSS, and JavaScript.
 
+## 🌐 Live Demo
+https://anjali-singhal-code.github.io/calculator/
+
+## 📸 Screenshot
+<img src="screenshot.png">
+
 ## 🚀 Features
-- Basic operations (Addition, Subtraction, Multiplication, Division)
+- ➕ Addition
+- ➖ Subtraction
+- ✖ Multiplication
+- ➗ Division
 - Clean UI
 - Responsive design
 
@@ -12,17 +21,9 @@ A simple calculator built using HTML, CSS, and JavaScript.
 - CSS
 - JavaScript
 
-## 📂 Project Structure
-- index.html
-- style.css
-- script.js
-
 ## ▶️ How to Run
-1. Download or clone the repo
-2. Open index.html in browser
+Open index.html in browser
 
-## 🌐 Live Demo
-https://anjali-singhal-code.github.io/calculator/
 ---
 
-💡 This is my beginner frontend project.
+💡 Beginner frontend project
