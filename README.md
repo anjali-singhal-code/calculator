@@ -21,6 +21,8 @@ A simple calculator built using HTML, CSS, and JavaScript.
 1. Download or clone the repo
 2. Open index.html in browser
 
+## 🌐 Live Demo
+https://anjali-singhal-code.github.io/calculator/
 ---
 
 💡 This is my beginner frontend project.
