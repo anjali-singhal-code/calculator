@@ -6,8 +6,8 @@ A simple calculator built using HTML, CSS, and JavaScript.
 https://anjali-singhal-code.github.io/calculator/
 
 ## 📸 Screenshot
-<p align= "centre">
- <img src="screenshot.png" width= "300">
+<p align= "center">
+ <img src="screenshot.png" width= "300px">
 </p>
 
 ## 🚀 Features
