@@ -5,11 +5,6 @@ A simple calculator built using HTML, CSS, and JavaScript.
 ## 🌐 Live Demo
 https://anjali-singhal-code.github.io/calculator/
 
-## 📸 Screenshot
-<p align= "center">
- <img src="screenshot.png" width= "300px">
-</p>
-
 ## 🚀 Features
 - ➕ Addition
 - ➖ Subtraction
